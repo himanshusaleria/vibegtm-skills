@@ -1,0 +1,24 @@
+{
+  "name": "vibegtm",
+  "owner": {
+    "name": "Himanshu Saleria",
+    "url": "https://github.com/himanshusaleria"
+  },
+  "metadata": {
+    "description": "VibeGTM: open-source go-to-market skills for solo founders, built around one shared context file."
+  },
+  "plugins": [
+    {
+      "name": "vibegtm",
+      "source": "./",
+      "description": "Go-to-market the way you vibe-code: one shared gtm-context.md, skills for search demand, competitor mapping, SEO/AEO content, Reddit drafts, lead validation, and cold email, with a human gate on anything public.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Himanshu Saleria",
+        "url": "https://github.com/himanshusaleria"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/himanshusaleria/vibegtm-skills"
+    }
+  ]
+}
